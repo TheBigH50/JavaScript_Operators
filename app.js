@@ -25,14 +25,21 @@ let isPresent = true;
 let firstName = "Frodo";
 let lastName = "Baggins";
 
-num+str
-num+str2
-num+isPresent
-firstName+num
-isPresent+str
-firstName+lastName
+num + str;
+num + str2;
+num + isPresent;
+firstName + num;
+isPresent + str;
+firstName + lastName;
 
-console.log(num+str,num+str2, num+isPresent, firstName+num, isPresent+str, firstName+lastName)
+console.log(
+  num + str,
+  num + str2,
+  num + isPresent,
+  firstName + num,
+  isPresent + str,
+  firstName + lastName
+);
 
 // Exercise 3
 console.log("EXERCISE 3:\n==========\n");
