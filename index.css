@@ -13,14 +13,16 @@ body {
 
 h1 {
   display: flex;
-  font-family: fantasy;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 0.125rem;
   color: lime;
   justify-content: center;
   margin: 0.25rem;
 }
 
 p {
-  font-family: fantasy;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 0.05rem;
   color: hotpink;
 
   display: flex;
@@ -40,4 +42,5 @@ img {
   padding: 0.125rem;
   border: 0.125px dashed lime;
   margin-top: 0.5rem;
+  border-radius: 20px;
 }
