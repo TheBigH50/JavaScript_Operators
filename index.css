@@ -1,43 +1,43 @@
 * {
-    box-sizing: border-box
-    ;}
+  box-sizing: border-box;
+}
 
 html {
-    font-size: 20px;
-    background-color: navy;
+  font-size: 20px;
+  background-color: navy;
 }
 
 body {
-    margin: 0;
+  margin: 0;
 }
 
 h1 {
-    display: flex;
-    font-family: fantasy;
-    color: lime;
-    justify-content: center;
-    margin: 0.25rem;
-    }
+  display: flex;
+  font-family: fantasy;
+  color: lime;
+  justify-content: center;
+  margin: 0.25rem;
+}
 
 p {
-    font-family: fantasy;
-    color: hotpink;
+  font-family: fantasy;
+  color: hotpink;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0.2rem;
 }
 
 div {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 img {
-    max-height: 20rem;
-    padding: 0.125rem;
-    border: 0.125px dashed lime;
-    margin-top: 0.5rem;
+  max-height: 20rem;
+  padding: 0.125rem;
+  border: 0.125px dashed lime;
+  margin-top: 0.5rem;
 }
