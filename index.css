@@ -35,6 +35,9 @@ div {
     align-items: center;
 }
 
-#text {
-    font-size: 100px;
+img {
+    max-height: 20rem;
+    padding: 0.125rem;
+    border: 0.125px dashed lime;
+    margin-top: 0.5rem;
 }
