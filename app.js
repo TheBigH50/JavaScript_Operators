@@ -44,4 +44,27 @@ console.log(
 // Exercise 3
 console.log("EXERCISE 3:\n==========\n");
 
-// YOUR CODE HERE
+let val = 5;
+let str3 = "5";
+let str4 = "five";
+let isPresent2 = false;
+
+val == str3;
+val === str3;
+!isPresent2("eleven" == str4 && val >= st3)(!isPresent2 || isPresent2);
+0 == false;
+0 === false;
+0 != false;
+0 !== false;
+
+console.log(
+  val == str3,
+  val === str3,
+  !isPresent2,
+  "eleven" == str4 && val >= st3,
+  !isPresent2 || isPresent2,
+  0 == false,
+  0 === false,
+  0 != false,
+  0 !== false
+);
